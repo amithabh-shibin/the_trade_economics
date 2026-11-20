@@ -1,0 +1,71 @@
+THE TRADE ECONOMICS
+Static website handover
+
+Upload
+Extract the ZIP into your hosting document root. Keep index.html at the
+root, with the remaining HTML pages, styles.css and script.js. Keep the
+assets folder intact. No build step is required.
+
+Page map
+index.html        Academy homepage
+programmes.html   The System and the three programme outlines
+learn.html        Market education guides
+community.html    Learning community
+contact.html      Support and contact
+glossary.html     Trading glossary
+enquire.html      Enrolment enquiries
+about.html        Founder and academy information linked in the footer
+
+Reference design
+The homepage follows the reference order and layout from the fixed
+navigation and framed introduction through the intro card, topic chips,
+method graphics, two-column curriculum, media wall, founder split,
+enrolment panel, FAQ and footer. The System page includes a curriculum
+preview and learning path. Learn and Glossary use card grids. Enrolment
+uses the reference's separate minimal page layout. Inter is bundled
+locally. General Sans loads from Fontshare with Inter as the fallback.
+
+Client media and links
+The hero button opens a programme overview using the supplied chart
+image. The media wall features community and mentorship information.
+The founder section uses the supplied financial-district image.
+Chart and order flow visuals are illustrative. The profile supplies a
+phone number, email, Instagram handle and Dubai as the contact location.
+The enquiry page uses programme-specific emails and a phone link.
+
+Client details for additional features
+The reference's playable introduction, founder portrait, student
+testimonials, policy links and direct enrolment require approved client
+assets or links. Confirm a WhatsApp number before adding a WhatsApp
+button. A precise address is needed for a map. Confirm current fees,
+dates, access terms and enrolment setup before accepting applications
+or payments.
+
+20 November update
+Added supplied Forex Expo, community gathering and Junior Trader Bootcamp
+photos with matching homepage descriptions. The duplicated expo photo is
+used once. Added the supplied founder portrait to Home and About.
+Applied black and charcoal surfaces, white type and fluorescent green
+accents throughout. Inter is the closest bundled font match to the screenshot;
+the screenshot alone cannot establish its exact font family.
+
+Added Call and WhatsApp buttons across all pages, using +971 50 342 7388.
+The WhatsApp link uses the existing company phone number as requested.
+Confirm that this number is registered with WhatsApp.
+
+Testimonials are visibly labelled sample content. Their portraits are
+AI-generated fictional people. Replace the wording and portraits with
+approved authentic customer feedback before publishing genuine reviews.
+
+The sentence about an accident-damaged car and charging its battery was
+omitted because it appears unrelated to the trading academy.
+
+Follow-up revision
+Removed the repeated Sample review label from the testimonial cards.
+A single section disclosure identifies the illustrative wording and fictional
+portraits. The bootcamp section now displays one larger group photo.
+
+Logo visibility update
+Enlarged the header logo to 84px high on desktop and 74px on smaller
+screens. Increased header height and aligned the mobile menu below it.
+The supplied logo artwork is preserved.
